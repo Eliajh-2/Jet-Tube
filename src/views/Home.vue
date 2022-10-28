@@ -37,7 +37,7 @@
     video: {
     id: 1,
     url: '/videoPlay',
-    title: "la",
+    title: "znation31",
     thumbnail:
       "https://i.ytimg.com/vi/jn9mHzXJIV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAvJvk4k_UNB9nst4pFP-txM1TLZA",
     youtubeURL: "https://www.youtube.com/embed/jn9mHzXJIV0",

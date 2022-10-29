@@ -39,8 +39,8 @@
     url: '/videoPlay',
     title: "znation31",
     thumbnail:
-      "https://i.ytimg.com/vi/jn9mHzXJIV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAvJvk4k_UNB9nst4pFP-txM1TLZA",
-    youtubeURL: "https://www.youtube.com/embed/jn9mHzXJIV0",
+      "https://tr.rbxcdn.com/c76b62031ff0cc4cc1f  08464b1551339/150/150/Image/Png",
+    youtubeURL: "https://www.dailymotion.com/video/k2Q8oIJBoJhewGyqiK7",
     creator: "elijahVR",
     likes: 0,
     createdAt: '1 hour ago',

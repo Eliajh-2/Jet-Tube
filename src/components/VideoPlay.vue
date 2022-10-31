@@ -320,7 +320,7 @@ let videos = [
     title: "Let's Talk About Tesla Roadster 2020!",
     thumbnail:
       "https://i.ytimg.com/vi/ctx4YBEdOxo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBDnlrC2rVwXamNkicEEbc3Mf4T0w",
-    youtubeURL: "https://www.youtube.com/embed/ctx4YBEdOxo",
+    youtubeURL: "https://www.youtube-nocookie.com/embed/Gf9Nxq-O0E4?undefined&autoplay=1",
     creator: "Marques Brownlee",
     likes: 0,
     dislikes: 0,

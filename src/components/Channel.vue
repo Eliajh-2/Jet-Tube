@@ -14,10 +14,10 @@
                   ></v-list-item-avatar>
                   <v-list-item-content class="align-self-auto">
                     <v-list-item-title class="headline mb-1"
-                      >Bouhriz Abir</v-list-item-title
+                      >elijahVR</v-list-item-title
                     >
                     <v-list-item-subtitle
-                      >1.06M subscribers
+                      >100B subscribers
                     </v-list-item-subtitle>
                   </v-list-item-content>
                 </v-list-item>
@@ -119,17 +119,17 @@ export default {
     video: {
       id: 1,
     url: '/videoPlay',
-    title: "18-core iMac Pro Review: Not a Trap!",
+    title: "backrooms",
     thumbnail:
       "https://i.ytimg.com/vi/jn9mHzXJIV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAvJvk4k_UNB9nst4pFP-txM1TLZA",
     youtubeURL: "https://www.youtube.com/embed/jn9mHzXJIV0",
-    creator: "Marques Brownlee",
+    creator: "ZNATION31",
     likes: 0,
     createdAt: '6 hours ago',
     subscribers: '100k',
     views: '1.4 B',
     description:
-          'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa vel inventore voluptatum reiciendis delectus quibusdam incidunt consequuntur, nostrum aperiam, natus quidem qui corrupti reprehenderit quaerat neque voluptatibus? Ullam, maiores temporibus! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa vel inventore voluptatum reiciendis delectus, Lorem, ipsum dolor sit amet consectetur adipisicing elit. Culpa vel inventore voluptatum reiciendis delectus'
+          'backrooms'
   
     },
     channel: {

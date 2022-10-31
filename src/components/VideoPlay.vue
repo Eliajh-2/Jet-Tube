@@ -305,7 +305,7 @@ let videos = [
     title: "Dope Tech: Camera Robots!",
     thumbnail:
       "https://i.ytimg.com/vi/UIwdCN4dV6w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDhlan32jHSvicGZezDFPjAOdXGUA",
-    youtubeURL: "https://www.youtube.com/embed/UIwdCN4dV6w",
+    youtubeURL: "https://www.youtube-nocookie.com/embed/Gf9Nxq-O0E4?undefined&autoplay=1",
     creator: "Marques Brownlee",
     likes: 0,
     dislikes: 0,

@@ -292,7 +292,7 @@ let videos = [
       "https://i.ytimg.com/vi/jn9mHzXJIV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAvJvk4k_UNB9nst4pFP-txM1TLZA",
     youtubeURL: "https://www.youtube-nocookie.com/embed/spADkxbfuYk?undefined&autoplay=1",
     creator: "Marques Brownlee",
-    likes: 0,
+    likes: 10000,
     dislikes: 0,
     createdAt: '2 years ago',
     subscribers: '100k',

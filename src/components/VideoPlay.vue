@@ -321,7 +321,7 @@ let videos = [
     thumbnail:
       "https://i.ytimg.com/vi/ctx4YBEdOxo/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBDnlrC2rVwXamNkicEEbc3Mf4T0w",
     youtubeURL: "https://www.youtube-nocookie.com/embed/Gf9Nxq-O0E4?undefined&autoplay=1",
-    creator: "Marques Brownlee",
+    creator: "MOESARGI",
     likes: 0,
     dislikes: 0,
     createdAt: '6 hours ago',
@@ -335,8 +335,8 @@ let videos = [
     title: "Talking Tech with Neil deGrasse Tyson!",
     thumbnail:
       "https://i.ytimg.com/vi/pqQrL1K0Z5g/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLA5hTiwkz4Tr1w1hSMhPlwtmQeyYw",
-    youtubeURL: "https://www.youtube.com/embed/pqQrL1K0Z5g",
-    creator: "Marques Brownlee",
+    youtubeURL: "https://www.youtube-nocookie.com/embed/cVfyTt2OC-g?undefined&autoplay=1",
+    creator: "SML",
     likes: 0,
     dislikes: 0,
     createdAt: '10 hours ago',

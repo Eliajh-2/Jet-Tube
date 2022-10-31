@@ -40,12 +40,12 @@
     title: "znation31",
     thumbnail:
       "https://tr.rbxcdn.com/c76b62031ff0cc4cc1f  08464b1551339/150/150/Image/Png",
-    youtubeURL: "https://www.dailymotion.com/video/k2Q8oIJBoJhewGyqiK7",
+    youtubeURL: "https://www.youtube-nocookie.com/embed/Gf9Nxq-O0E4?undefined&autoplay=1",
     creator: "elijahVR",
     likes: 0,
     createdAt: '1 hour ago',
     subscribers: '100B',
-    views: 14526,
+    views: 10000014526,
     description:
           'N/A'
   },
